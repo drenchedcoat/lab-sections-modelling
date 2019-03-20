@@ -1,4 +1,8 @@
-# hw1: caesar cipher
+# hw1
+caesar cipher
+
+# hw4
+a game of medieval nobles and warriors, nobles hire warriors and they fight.
 
 # lab
 A small example of modelling sections and adding students and their grades to each section.
