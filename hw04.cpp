@@ -1,6 +1,3 @@
-/**     zehra abacioglu, zna215
-        +1 for effort ty            */
-
 #include <iostream>
 #include <vector>
 #include <fstream>
@@ -45,7 +42,7 @@ public:
     string getName() const { return name; }
 
     //for ever warrior, decrease its hp by percentage passed in
-    //if passed in is 0, they die, if 1, no change, if .5, hp halved, etc etc
+    //if passed in is 0, they die, if 1, no change, if .5, hp halved, etc
     void decreaseBy(const double& percent){
 
         for (Warrior* warrior : warriors){
